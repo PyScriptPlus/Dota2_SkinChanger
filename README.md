@@ -1,4 +1,6 @@
-# Dota 2 Skin Changer
+<h1 align="center">
+Dota 2 Skin Changer
+</h1>
 
 <p align="center">
   **A powerful Dota 2 cosmetic customization tool, built with C++ and Dear ImGui.**
